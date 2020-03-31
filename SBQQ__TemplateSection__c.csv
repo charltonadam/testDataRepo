@@ -1,0 +1,23 @@
+Guid,Name,SBQQ__BorderColor__c,SBQQ__BottomMargin__c,SBQQ__ColumnHeaderHidden__c,SBQQ__ConditionalPrintField__c,SBQQ__DisplayOrder__c,SBQQ__FilterField__c,SBQQ__FilterOperator__c,SBQQ__FilterValue__c,SBQQ__GroupField__c,SBQQ__KeepTogether__c,SBQQ__KeepWithNext__c,SBQQ__KeepWithPrevious__c,SBQQ__PageBreak__c,SBQQ__QuoteTotalsPrinted__c,SBQQ__RollUpField__c,SBQQ__SummaryDisplay__c,SBQQ__Template__c,SBQQ__TopMargin__c
+011fa890-e60f-4808-ac78-68de73053125,Proposal Standard Lines - Grouped by Family,"#N/A",0.0,false,Group_Line_Items__c,60.0,"#N/A","#N/A","#N/A",Product Family,Auto,Auto,"#N/A","#N/A",false,"#N/A","#N/A",a1a3h000000cKaeAAE,0.0
+211240e0-b5d2-4a17-959c-7923c8e08690,Proposal Cover Letter,"#N/A",0.0,false,"#N/A",30.0,"#N/A","#N/A","#N/A","#N/A",Auto,Auto,"#N/A","#N/A",false,"#N/A","#N/A",a1a3h000000cKaeAAE,0.0
+27207acb-dc03-40ad-a2bf-b375d193ec26,Quote Terms Header,"#N/A",0.0,false,Print_Terms_and_Conditions__c,80.0,"#N/A","#N/A","#N/A","#N/A",Auto,Auto,"#N/A",Before,false,"#N/A","#N/A",a1a3h000000cKafAAE,0.0
+2ba0a4a9-850a-4142-bbb4-20fa35c3e9c3,Quote Terms,"#N/A",0.0,false,Print_Terms_and_Conditions__c,90.0,"#N/A","#N/A","#N/A","#N/A",Auto,Auto,"#N/A","#N/A",false,"#N/A","#N/A",a1a3h000000cKafAAE,0.0
+3606deaa-0b36-4517-a4f3-81349651d896,Quote Notes,"#N/A",0.0,false,Print_Notes__c,70.0,"#N/A","#N/A","#N/A","#N/A",Auto,Auto,"#N/A","#N/A",false,"#N/A","#N/A",a1a3h000000cKafAAE,0.0
+4396f9c6-508f-4aa0-afba-a2829d39074c,Quote Header,"#N/A",0.0,false,"#N/A",40.0,"#N/A","#N/A","#N/A","#N/A",Auto,Auto,"#N/A","#N/A",false,"#N/A","#N/A",a1a3h000000cKafAAE,0.0
+4daded3e-ee75-41c7-942b-9e94e331aaa1,Contract Terms,"#N/A",0.0,false,"#N/A",90.0,"#N/A","#N/A","#N/A","#N/A",Auto,Auto,"#N/A","#N/A",false,"#N/A","#N/A",a1a3h000000cKagAAE,0.0
+537e556a-13f7-4cf7-94ba-53fcfec0d943,Proposal Cover Page,"#N/A",0.0,false,"#N/A",10.0,"#N/A","#N/A","#N/A","#N/A",Auto,Auto,"#N/A","#N/A",false,"#N/A","#N/A",a1a3h000000cKaeAAE,0.0
+561f68ee-6920-4c49-992d-c1635b6a8b61,Quote Signature Block,"#N/A",0.0,false,Print_Signature_Block__c,100.0,"#N/A","#N/A","#N/A","#N/A",Auto,Auto,"#N/A",Before,false,"#N/A","#N/A",a1a3h000000cKafAAE,0.0
+710984ec-06ef-48a4-802d-1c2e6420709b,Quote Prepared For / By,"#N/A",0.0,false,"#N/A",50.0,"#N/A","#N/A","#N/A","#N/A",Auto,Auto,"#N/A","#N/A",false,"#N/A","#N/A",a1a3h000000cKafAAE,0.0
+71292f5a-cafc-4090-918f-c9b940bc9ccd,Proposal Header 2,"#N/A",0.0,false,"#N/A",40.0,"#N/A","#N/A","#N/A","#N/A",Auto,Auto,"#N/A",Before,false,"#N/A","#N/A",a1a3h000000cKaeAAE,0.0
+93927682-a51e-4efa-b95c-1b662accc77e,Proposal Terms,"#N/A",0.0,false,Print_Terms_and_Conditions__c,90.0,"#N/A","#N/A","#N/A","#N/A",Auto,Auto,"#N/A","#N/A",false,"#N/A","#N/A",a1a3h000000cKaeAAE,0.0
+953d2a0e-227f-43a9-8c80-d829cb9a58f8,Proposal Terms Header,"#N/A",0.0,false,Print_Terms_and_Conditions__c,80.0,"#N/A","#N/A","#N/A","#N/A",Auto,Auto,"#N/A",Before,false,"#N/A","#N/A",a1a3h000000cKaeAAE,0.0
+a65d90d9-4d38-4e33-a40b-ed314b057a04,Proposal Notes,"#N/A",0.0,false,Print_Notes__c,70.0,"#N/A","#N/A","#N/A","#N/A",Auto,Auto,"#N/A","#N/A",false,"#N/A","#N/A",a1a3h000000cKaeAAE,0.0
+b48b2e4c-73f0-4214-aefa-3e0609d9c3c6,Proposal Header 1,"#N/A",0.0,false,"#N/A",20.0,"#N/A","#N/A","#N/A","#N/A",Auto,Auto,"#N/A",Before,false,"#N/A","#N/A",a1a3h000000cKaeAAE,0.0
+be0c3221-bd7d-4c1e-9921-05a4ec9572a4,Contract Signature Block,"#N/A",0.0,false,Print_Signature_Block__c,100.0,"#N/A","#N/A","#N/A","#N/A",Auto,Auto,"#N/A",Before,false,"#N/A","#N/A",a1a3h000000cKagAAE,0.0
+bf6735e1-9460-4621-ab83-ec7821168467,Contract Header,"#N/A",0.0,false,"#N/A",70.0,"#N/A","#N/A","#N/A","#N/A",Auto,Auto,"#N/A","#N/A",false,"#N/A","#N/A",a1a3h000000cKagAAE,0.0
+c398b18b-6f44-41f1-930c-92ddd110da57,Proposal Standard Lines,"#N/A",0.0,false,Not_grouped_by_family__c,60.0,"#N/A","#N/A","#N/A","#N/A",Auto,Auto,"#N/A","#N/A",false,"#N/A","#N/A",a1a3h000000cKaeAAE,0.0
+c984776e-9420-455b-914d-2988c95e4e2d,Proposal Signature Block,"#N/A",0.0,false,Print_Signature_Block__c,100.0,"#N/A","#N/A","#N/A","#N/A",Auto,Auto,"#N/A","#N/A",false,"#N/A","#N/A",a1a3h000000cKaeAAE,0.0
+e543f6f8-8797-4986-9399-6b4a8c04939b,Proposal Prepared For / By,"#N/A",0.0,false,"#N/A",50.0,"#N/A","#N/A","#N/A","#N/A",Auto,Auto,"#N/A","#N/A",false,"#N/A","#N/A",a1a3h000000cKaeAAE,0.0
+e54fa781-fb28-4012-b9c5-b9b0283efefd,Contract Terms Header,"#N/A",0.0,false,"#N/A",80.0,"#N/A","#N/A","#N/A","#N/A",Auto,Auto,"#N/A","#N/A",false,"#N/A","#N/A",a1a3h000000cKagAAE,0.0
+f496b21d-b859-46ed-9a4c-7e09f30a8921,Quote Standard Lines,"#N/A",0.0,false,"#N/A",60.0,"#N/A","#N/A","#N/A","#N/A",Auto,Auto,"#N/A","#N/A",false,"#N/A","#N/A",a1a3h000000cKafAAE,0.0
